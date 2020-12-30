@@ -1,0 +1,82 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+.navbar-brand{
+    font-weight:bold;
+}
+
+.main{
+    background: url(./back.jpg)no-repeat center;
+    width:100%;
+}
+
+.b1{
+    font-size: 3.2rem;
+    font-weight: bold;
+    text-shadow: 2px 2px black;
+}
+
+.b2{
+    font-size: 1.2rem;
+    text-shadow: 2px 2px black;
+}
+
+.b3{
+    font-size: 1.5rem;
+    font-weight:bold;
+}
+
+.b4{
+    font-size: 1.25rem;
+}
+
+.btn2{
+    background:black;
+    color:white;
+    border:none;
+    width:100%;
+    padding:1.3rem 0rem;
+    float:right;
+    font-size: 1.2rem;
+}
+
+.btn3{
+    background:orangered;
+    color:white;
+    border:none;
+    width:100%;
+    padding:1.3rem 0rem;
+    float:right;
+    font-size: 1.2rem;
+}
+
+.l{
+    text-align: center;
+}
+
+.renth{
+    background: orangered;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.contacth{
+    background: black;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.card{
+    border-color: black;
+}
+.c{
+    border-color: black;
+}
+.rent{
+    background: white;
+}
